@@ -1,2 +1,2 @@
 # spring-cloud-learn
-spring cloud 学习
+spring cloud netflix 学习
