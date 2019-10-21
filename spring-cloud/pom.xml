@@ -24,6 +24,9 @@
         <module>spring-cloud-hystrix-turbine</module>
         <module>spring-cloud-confg-server</module>
         <module>spring-cloud-config-client</module>
+        <module>spring-cloud-zuul</module>
+        <module>spring-cloud-zuul-advanced</module>
+
     </modules>
     <properties>
         <java.version>1.8</java.version>
